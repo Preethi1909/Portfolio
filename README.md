@@ -2,6 +2,8 @@
 
 A responsive personal portfolio showcasing my skills, about me, and projects as a frontend and Python developer.
 
+**Live demo:** https://preethi1909.github.io/Portfolio/
+
 ## ✨ Features
 
 - Responsive layout for desktop, tablet and mobile
